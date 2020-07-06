@@ -15,7 +15,7 @@ The events in the database start in the year 1950 and end in November 2011. In t
 
 ## Objective :
 Our objective is to answer the following two questions by analyzing the Storm Data :
-1. Across the United States, which types of events (as indicated in the \color{red}{\verb|EVTYPE|}EVTYPE variable) are most harmful with respect to population health?
+1. Across the United States, which types of events (as indicated in the __EVTYPE__ variable) are most harmful with respect to population health?
 2. Across the United States, which types of events have the greatest economic consequences?
 
 ## Files : 
